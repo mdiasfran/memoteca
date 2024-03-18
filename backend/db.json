@@ -1,3 +1,28 @@
 {
-  "pensamentos": []
+  "pensamentos": [
+    {
+      "conteudo": "Angular é um framework de desenvolvimento front-end mantido pelo Google, oferecendo uma estrutura poderosa para criar aplicativos web dinâmicos e escaláveis em TypeScript.",
+      "autoria": "",
+      "modelo": "modelo1",
+      "id": 1
+    },
+    {
+      "conteudo": "Com os componentes Angular, é possível encapsular partes da interface do usuário, promovendo a reutilização de código e facilitando a manutenção e desenvolvimento de aplicativos web.",
+      "autoria": "",
+      "modelo": "modelo2",
+      "id": 2
+    },
+    {
+      "conteudo": "O roteamento em Angular permite uma navegação fluida entre diferentes partes do aplicativo, melhorando a experiência do usuário ao evitar recarregamentos de página e mantendo a responsividade.",
+      "autoria": "",
+      "modelo": "modelo3",
+      "id": 3
+    },
+    {
+      "conteudo": "Os serviços em Angular são classes reutilizáveis que promovem a modularidade e a testabilidade do código, enquanto a injeção de dependência facilita a comunicação entre componentes, módulos e outros serviços.",
+      "autoria": "",
+      "modelo": "modelo3",
+      "id": 4
+    }
+  ]
 }

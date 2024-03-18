@@ -1,27 +1,46 @@
 # Memoteca
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
+![Memoteca](../memoteca/src/assets/imagens/memoteca.png)
 
-## Development server
+Projeto desenvolvido como parte do aprendizado em Angular. O projeto implementa um CRUD (Create, Read, Update, Delete) utilizando o Angular CLI para criar o projeto e diversos tipos de arquivos. Ele cobre os seguintes tópicos de aprendizado em Angular:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- Utilização da ferramenta Angular CLI para criar um projeto e diversos tipos de arquivos.
+- Entendimento da estrutura de um componente em Angular.
+- Uso de property binding, interpolação, event binding e two-way data binding.
+- Conhecimento sobre algumas das principais diretivas do Angular.
+- Adição de navegação dinâmica entre componentes através das rotas.
+- Aplicação de injeção de dependências na aplicação.
+- Realização de requisições HTTP através da classe HttpClient.
 
-## Code scaffolding
+## Estrutura do Projeto
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+O projeto possui a seguinte estrutura:
 
-## Build
+- `src/app`: Pasta que contém os componentes, serviços, módulos e arquivos relacionados à aplicação.
+- `src/assets`: Pasta para armazenar arquivos estáticos como imagens, estilos CSS, etc.
+- `src/environments`: Pasta para configurar variáveis de ambiente.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Como Usar
 
-## Running unit tests
+1. Clone este repositório em sua máquina local.
+2. Certifique-se de ter o Angular CLI instalado globalmente (`npm install -g @angular/cli`).
+3. Navegue até o diretório do projeto e instale as dependências (`npm install`).
+4. Execute o servidor de desenvolvimento (`ng serve`) e abra o navegador no endereço `http://localhost:4200`.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Recursos Utilizados
 
-## Running end-to-end tests
+- Angular CLI
+- Angular
+- TypeScript
+- HTML
+- CSS
+- HttpClient
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Contribuição
 
-## Further help
+Este é um projeto em desenvolvimento. Contribuições são bem-vindas por meio de pull requests. Para grandes mudanças, por favor, abra uma issue primeiro para discutir o que você gostaria de mudar.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Contato
+
+Se tiver alguma dúvida ou sugestão relacionada a este projeto, sinta-se à vontade para entrar em contato.
+
