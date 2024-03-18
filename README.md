@@ -1,6 +1,6 @@
 # Memoteca
 
-![Memoteca](../memoteca/src/assets/imagens/memoteca.png)
+![Memoteca](src/assets/imagens/memoteca.png)
 
 Projeto desenvolvido como parte do aprendizado em Angular. O projeto implementa um CRUD (Create, Read, Update, Delete) utilizando o Angular CLI para criar o projeto e diversos tipos de arquivos. Ele cobre os seguintes tópicos de aprendizado em Angular:
 
